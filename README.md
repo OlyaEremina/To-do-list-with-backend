@@ -4,6 +4,6 @@
 4. `cp .env.example .env`
 5. `npm run db-ok`
 6. `npm run dev`
-7. `cd ../frontend`
-8. `npm i`
-9. `npm run dev`
+8. во втором терминале `cd To-do-list-with-backend/frontend`
+9. `npm i`
+10. `npm run dev`
